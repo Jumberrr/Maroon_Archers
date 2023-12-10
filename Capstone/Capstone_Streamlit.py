@@ -2,8 +2,10 @@ import streamlit as st
 
 # Sample data: Replace this with your actual data
 power_plant_data = {
-    "01ANGAT_M": ["https://github.com/Jumberrr/Maroon_Archers/blob/main/Capstone/images/01ANGAT_M%20count.PNG", "https://github.com/Jumberrr/Maroon_Archers/blob/main/Capstone/images/01ANGAT_M%20snake.PNG", "https://github.com/Jumberrr/Maroon_Archers/blob/main/Capstone/images/01ANGAT_M%20time%20dist.PNG"],
-    "01BAUANG_GS1": ["https://github.com/Jumberrr/Maroon_Archers/blob/main/Capstone/images/01BAUANG_GS1%20count.PNG", "https://github.com/Jumberrr/Maroon_Archers/blob/main/Capstone/images/01BAUANG_GS1%20snake.PNG", "https://github.com/Jumberrr/Maroon_Archers/blob/main/Capstone/images/01BAUANG_GS1%20time%20dist.PNG"],
+    "01ANGAT_M": ["https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01ANGAT_M%20count.PNG", "https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01ANGAT_M%20snake.PNG", "https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01ANGAT_M%20time%20dist.PNG"],
+    "01BAUANG_GS1": ["https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01BAUANG_GS1%20count.PNG", "https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01BAUANG_GS1%20snake.PNG", "https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01BAUANG_GS1%20time%20dist.PNG"],
+    "01CASECN_GO1": ["https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01CASECN_G01%20count.PNG", "https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01CASECN_G01%20snake.PNG", "https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/01CASECN_G01%20time%20dist.PNG"],
+    
     # Add more entries as needed
 }
 
