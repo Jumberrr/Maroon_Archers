@@ -32,17 +32,12 @@ power_plant_data = {
 
 st.title("Watts Up Pinas?!")
 
-st.subheader("This project is developed by the group, Maroon Archers, of Eskwelabs, an online data upskilling school. Shown here are the generators or power plants participating in the Philippine Electricity Market Corporation - Wholesale Electricity Spot Market.Employing K-means clustering, we've determined the different bidding behaviors of each power plant using two (2) years worth of data.")
+st.subheader("This project is developed by the group, Maroon Archers, of Eskwelabs, an online data upskilling school. Shown here are the generators or power plants participating in the Philippine Electricity Market Corporation - Wholesale Electricity Spot Market.Employing K-means clustering, we've determined the different bidding behaviors of each power plant using two (2) years worth of data.", style={'color': 'blue', 'font-size': '20px'})
 
 st.text("Select a power plant to see their bidding behaviors over time.")
 
 # Dropdown for selecting resource_id
 selected_resource_id = st.selectbox("Select a generator (resource_id)", list(power_plant_data.keys()))
-
-# Check if a power plant has been selected
-if selected_resource_id != "Select a power plant":
-        # Display the selected resource_id
-        st.write(f"Selected power plant: {selected_resource_id}")
 
 # Display the corresponding images with custom titles
 images_with_titles = power_plant_data.get(selected_resource_id, [])
