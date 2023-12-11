@@ -56,4 +56,4 @@ for image_url, title in images_with_titles:
     st.image(image_url, caption=title, use_column_width=True)
     
 if selected_resource_id != "Select a power plant":
-    st.markdown("<h2 style='color: black; font-size: 12px;'>Select a power plant to see their bidding behaviors over time.</h2>", unsafe_allow_html=True)  
+    st.markdown("<h2 style='color: black; font-size: 12px;'>Disclaimer: The generators presented in this app are the generators currently ran by the group. </h2>", unsafe_allow_html=True)  
