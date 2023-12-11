@@ -1,14 +1,11 @@
 import streamlit as st
 
-# Set background image URL
-background_image_url = "url('https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/bg.png')"  
-
 # Apply background image using HTML and Markdown
 st.markdown(
     f"""
     <style>
         body {{
-            background-image: {background_image_url};
+            background-image: "url('https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/bg.png')" ;
             background-size: cover;
         }}
     </style>
