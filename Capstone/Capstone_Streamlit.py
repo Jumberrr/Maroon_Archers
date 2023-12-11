@@ -1,17 +1,15 @@
 import streamlit as st
 
-# Apply background image using HTML and Markdown
-st.markdown(
-    f"""
-    <style>
-        body {{
-            background-image: "url('https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/bg.png')" ;
-            background-size: cover;
-        }}
-    </style>
-    """,
-    unsafe_allow_html=True
-)
+page_bg_img = '''
+<style>
+body {
+background-image: url("https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/bg.png");
+background-size: cover;
+}
+</style>
+'''
+
+st.markdown(page_bg_img, unsafe_allow_html=True)
 
 # Sample data: Replace this with your actual data
 power_plant_data = {
