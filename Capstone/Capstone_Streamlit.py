@@ -1,5 +1,21 @@
 import streamlit as st
 
+# Set background image URL
+background_image_url = "url('https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/images/bg.png')"  
+
+# Apply background image using HTML and Markdown
+st.markdown(
+    f"""
+    <style>
+        body {{
+            background-image: {background_image_url};
+            background-size: cover;
+        }}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Sample data: Replace this with your actual data
 power_plant_data = {
     "Select a generator/ power plant": [],
@@ -32,9 +48,9 @@ power_plant_data = {
 
 st.title("Watts Up Pinas?!")
 
-st.markdown("<h2 style='color: #227C9D; font-size: 20px;'>This project is developed by the group, Maroon Archers, of Eskwelabs, an online data upskilling school. Shown here are the generators or power plants participating in the Philippine Electricity Market Corporation - Wholesale Electricity Spot Market.Employing K-means clustering, we've determined the different bidding behaviors of each power plant using two (2) years worth of data.</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='color: #227C9D; font-size: 18px;'>This project is developed by the group, Maroon Archers, of Eskwelabs, an online data upskilling school. Shown here are the generators or power plants participating in the Philippine Electricity Market Corporation - Wholesale Electricity Spot Market.Employing K-means clustering, we've determined the different bidding behaviors of each power plant using two (2) years worth of data.</h2>", unsafe_allow_html=True)
 
-st.text("Select a power plant to see their bidding behaviors over time.")
+st.markdown("<h2 style='color: #227C9D; font-size: 14px;'>Select a power plant to see their bidding behaviors over time.</h2>", unsafe_allow_html=True)
 
 # Dropdown for selecting resource_id
 selected_resource_id = st.selectbox("Select a generator (resource_id)", list(power_plant_data.keys()))
