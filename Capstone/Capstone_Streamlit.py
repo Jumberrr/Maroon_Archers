@@ -55,7 +55,7 @@ images_with_titles = power_plant_data.get(selected_resource_id, [])
 for image_url, title in images_with_titles:
     st.image(image_url, caption=title, use_column_width=True)
     
-if selected_resource_id != "Select a power plant":
-    st.markdown("<h2 style='color: black; font-size: 12px;'>Select a power plant to see their bidding behaviors over time.</h2>", unsafe_allow_html=True)
-    else:
-    st.markdown("<h2 style='color: black; font-size: 12px;'></h2>", unsafe_allow_html=True)    
+# Check if a power plant has been selected
+    if st.button("Show Images") and selected_resource_id != "Select a power plant":
+        # Display the selected resource_id
+        st.write(f"Selected power plant: {selected_resource_id}") 
