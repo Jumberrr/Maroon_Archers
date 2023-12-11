@@ -41,9 +41,9 @@ power_plant_data = {
 
 # Streamlit app
 
-st.title("Watts Up Pinas?!")
+st.title("Watts Up, ‘Pinas?")
 
-st.markdown("<h2 style='color: #227C9D; font-size: 18px;'>This project is developed by the group, Maroon Archers, of Eskwelabs, an online data upskilling school. Shown here are the generators or power plants participating in the Philippine Electricity Market Corporation - Wholesale Electricity Spot Market.Employing K-means clustering, we've determined the different bidding behaviors of each power plant using two (2) years worth of data.</h2>", unsafe_allow_html=True)
+st.markdown("<h2 style='color: #227C9D; font-size: 18px;'>This project is developed by the group, Maroon Archers, of Eskwelabs, an online data upskilling school. Shown here are the generators or power plants participating in the Philippine Electricity Market Corporation - Wholesale Electricity Spot Market.Employing K-means clustering, we've determined the different bidding behaviors of each power plant using data gathered from the year 2022.</h2>", unsafe_allow_html=True)
 
 st.markdown("<h2 style='color: #48CFAE; font-size: 16px;'>Select a power plant to see their bidding behaviors over time.</h2>", unsafe_allow_html=True)
 
