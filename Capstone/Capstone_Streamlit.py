@@ -52,7 +52,7 @@ st.markdown("<h2 style='color: #48CFAE; font-size: 16px;'>Select a power plant t
 selected_resource_id = st.selectbox("Select a generator (resource_id)", list(power_plant_data.keys()))
 
 # Display additional information from the Excel file
-df = pd.read_csv(https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/PEMC%20WESM%20Registered%20Capacity%20List.csv)
+df = pd.read_csv("https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/main/Capstone/PEMC%20WESM%20Registered%20Capacity%20List.csv")
 selected_info = df[df['Market Trading Node'] == selected_resource_id]
 st.write("Additional Information:")
 st.write(selected_info)
