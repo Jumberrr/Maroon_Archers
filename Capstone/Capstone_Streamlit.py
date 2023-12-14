@@ -1,4 +1,5 @@
 import streamlit as st
+import pandas as pd
 
 page_bg_img = '''
 <style>
@@ -49,6 +50,12 @@ st.markdown("<h2 style='color: #48CFAE; font-size: 16px;'>Select a power plant t
 
 # Dropdown for selecting resource_id
 selected_resource_id = st.selectbox("Select a generator (resource_id)", list(power_plant_data.keys()))
+
+# Display additional information from the Excel file
+df = pd.read_excel("https://raw.githubusercontent.com/Jumberrr/Maroon_Archers/blob/main/Capstone/PEMC%20WESM%20Registered%20Capacity%20List.xlsx")
+selected_info = df[df['Market Trading Node'] == selected_resource_id]
+st.write("Additional Information:")
+st.write(selected_info)
 
 # Display the corresponding images with custom titles
 images_with_titles = power_plant_data.get(selected_resource_id, [])
