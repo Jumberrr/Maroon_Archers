@@ -1,0 +1,381 @@
+Market Participant Name,Region,Market Trading Node,Facility Name,Type,Classification,"Max. Stable Load 
+(Pmax, MW)","Min. Stable Load
+(Pmin, MW)","Max. Ramp Rate (RR, MW/Min)"
+1590 Energy Corporation,Luzon,01BAUANG_GS1,Bauang Diesel Power Plant GS1,Oil-Based,Scheduled,70.0,0.0,7.0
+1590 Energy Corporation,Luzon,01BAUANG_GS2,Bauang Diesel Power Plant GS2,Oil-Based,Scheduled,70.0,0.0,7.0
+1590 Energy Corporation,Luzon,01BAUANG_GS3,Bauang Diesel Power Plant GS3,Oil-Based,Scheduled,70.0,0.0,7.0
+Absolut Distillers Inc.,Luzon,03ADISOL_G01,Lian Solar Power Plant,Solar,Must dispatch,1.6,0.2,1.6
+Alternergy Wind One Corporation,Luzon,03AWOC_G01,54.000 MW Pililla Wind Farm Project (WFP),Wind,Must dispatch,53.6,0.0,54.0
+Anda Power Corporation,Luzon,01ANDA_G01,ANDA Coal-Fired Power Plant,Coal,Scheduled,72.0,24.6,0.5
+Angat Hydropower Corporation,Luzon,01ANGAT_A,Angat Hydroelectric Power Plant Unit A,Hydro,Scheduled,19.6,0.5,27.2
+Angat Hydropower Corporation,Luzon,01ANGAT_M,Angat Hydrolectric Power Plant Unit M,Hydro,Scheduled,200.0,5.0,382.3
+AP Renewables Inc. ,Luzon,03MKBN_A,Makban -Bay Geothermal Power Plant A,Geothermal,Scheduled,114.0,7.7,4.1
+AP Renewables Inc. ,Luzon,03MKBN_B,Makban-Calauan Geothermal Power Plant (Plant B),Geothermal,Scheduled,116.0,7.8,4.2
+AP Renewables Inc. ,Luzon,03MKBN_C,Makban-Calauan Geothermal Power Plant (Plant C),Geothermal,Scheduled,30.0,14.1,2.1
+AP Renewables Inc. ,Luzon,03MKBN_D,Makban -Bay Geothermal Power Plant  D,Geothermal,Scheduled,40.0,2.5,2.1
+AP Renewables Inc. ,Luzon,03MKBN_E,Makban-Sto. Tomas GPP Plant E,Geothermal,Scheduled,40.0,2.5,2.1
+AP Renewables Inc. ,Luzon,03ORMAT_G01,7.000 MW Makban-Binary 1 Geothermal Power Plant,Geothermal,Scheduled,6.0,1.5,2.0
+AP Renewables Inc. ,Luzon,03TIWI_A,120.000 MW Tiwi A Geothermal Power Plant,Geothermal,Scheduled,120.0,14.3,4.0
+AP Renewables Inc. ,Luzon,03TIWI_C,114.000 MW Tiwi C Geothermal Power Plant,Geothermal,Scheduled,113.8,7.1,3.8
+Asia Pacific Energy Corporation,Luzon,01APEC_G01,52.00 MW Circulating Fluidized Bed (CFB) Coal-Fired Power Plant ,Coal,Scheduled,25.0,1.0,0.5
+Asian Carbon Neutral Power Corp.,Luzon,01ACNPC_G01,ACNPC Tarlac Biomass Plant,Biomass,Non-scheduled,3.2,0.5,0.4
+Bac-Man Geothermal Inc.,Luzon,03BACMAN_U01,Bacman Geothermal Power Plant Unit 1,Geothermal,Priority Dispatch,60.0,30.0,4.4
+Bac-Man Geothermal Inc.,Luzon,03BACMAN_U02,Bacman Geothermal Power Plant Unit 2,Geothermal,Priority Dispatch,60.0,30.0,4.4
+Bac-Man Geothermal Inc.,Luzon,03BACMAN_U03,Bacman Geothermal Power Plant Unit 3,Geothermal,Priority Dispatch,20.0,10.0,2.0
+"Bataan 2020, Inc.",Luzon,01BT2020_G02,Bataan 2020 Coal Fired Power Plant,Coal,Scheduled,25.0,5.0,3.0
+"Bataan 2020 Power Ventures, Inc.",Luzon,01BT2020_G01,Bataan 2020 RE Biomass Cogeneration Power Plant,Biomass,Priority Dispatch,13.0,1.3,6.0
+Bataan Solar Energy Inc.,Luzon,01BTSOLEN_G01,4.377 MWp Bataan Solar Energy Project,Solar,Must dispatch,3.7,0.0,NA
+Bataan Solar Energy Inc.,Luzon,01BTSOLEN_BAT,0.531 MW/1.400 MWh Energy Storage System (ESS),Battery,Battery Energy Storage System,0.5,0.0,NA
+Bayog Wind Power Corp.,Luzon,01BALWIND_G01,80.000 MW Balaoi and Caunayan Wind Power Project Phase 1 ,Wind,Must dispatch,80.0,4.0,NA
+BEHMC Lower Labayat Hydropower Corp.,Luzon,03LWERLAB_G01,1.400 MW Lower Labayat Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,1.5,0.7,0.1
+Belgrove Power Corporation,Luzon,03MALAYA_G02,Malaya Thermal Power Plant Unit 2 ,Oil-Based,Scheduled,130.0,130.0,1.5
+Bicol Biomass Energy Corporation,Luzon,03BBEC_G01,5.000 MW Biomass Power Plant,Biomass,Priority Dispatch,5.0,1.5,0.2
+Bicol Hydropower Corporation,Luzon,03INARI_G01,1.600 MW Inarihan Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,1.7,0.1,0.1
+"Bosung Solartec, Inc.",Luzon,01BOSUNG_G01,Bosung Solar Power Plant,Solar,Must dispatch,1.0,0.0,1.0
+"Citicore Solar Bulacan, Inc. ",Luzon,01BULSOL_G01,San Ildefonso Solar Power Plant ,Solar,Must dispatch,15.0,0.0,1.0
+Cagayan Biomass Energy Corporation,Luzon,01CAGBIO_G01,15.00 MW Biomass Power Plant,Biomass,Priority Dispatch,13.5,2.2,0.8
+"Central Azucarera Don Pedro, Inc.",Luzon,03CADPI_G01,CADPI Biomass Power Plant,Biomass,Non-scheduled ,25.0,2.0,1.0
+CIP II Power Corporation,Luzon,01CIP2_G01,21.2656 MW Bunker C-Fired Diesel Power Plant,Oil-Based,Scheduled,20.0,2.2,1.3
+Citicore Renewable Energy Corporation,Luzon,01CLASOL_G01,22.325 MWp Clark Solar Power Plant,Solar,Must dispatch,19.1,0.0,NA
+Cleangreen Energy Corporation,Luzon,01CLEANG_G01,CEC Biomass Power Plant,Biomass,Non-scheduled,10.8,1.4,0.4
+Ecopark Energy of Valenzuela Corp.,Luzon,02ECOPRK_G01,Ecopark Energy Isla Power Plant,Solar,Must dispatch,4.0,0.0,NA
+Ecopark Energy of Valenzuela Corp.,Luzon,02ECOTAGA_G01,16.002 MWp (Phases 2 and 3) Tagalag Solar Power Plant,Solar,Must dispatch,14.7,0.0,NA
+"Energy Development Corporation
+(additional facility)",Luzon,01BURGOS_G02,4.160 MWp Burgos Solar Power Plant (BSPP) Phase 1,Solar,Must dispatch,3.4,0.0,NA
+"Energy Development Corporation
+(additional facility)",Luzon,01BURGOS_G03,2.660 MWp Burgos Solar Power Plant (BSPP) Phase 2,Solar,Must dispatch,2.2,0.0,NA
+"Energy Logics Philippines, Inc.",Luzon,01PASQSOL_G01,100.10 MW Pasuquin Solar Power Plant ,Solar,Must dispatch,92.4,0.0,NA
+EDC Burgos Wind Power Corporation,Luzon,01BURGOS_G01,EDC Burgos Wind Power Plant,Wind,Must dispatch,150.0,0.0,15.0
+First Gen Hydro Power Corporation,Luzon,01MASIWA_G01,12.000 MW Masiway Hydroelectric Power Plant,Hydro,Scheduled,12.0,1.0,16.6
+First Gen Hydro Power Corporation,Luzon,01PNTBNG_U01,Pantabangan Hydro Electric Power Plant Unit 1,Hydro,Scheduled,60.0,15.0,86.3
+First Gen Hydro Power Corporation,Luzon,01PNTBNG_U02,Pantabangan Hydro Electric Power Plant Unit 2,Hydro,Scheduled,60.0,15.0,79.5
+First Natgas Power Corporation,Luzon,03SNGAB_G01,San Gabriel  Power Plant,Natural Gas,Scheduled,420.0,210.0,13.0
+FGP Corp.,Luzon,03STA-RI_G05,San Lorenzo Combined-Cycle Gas Turbine Power Plant Unit 50,Natural Gas,Scheduled,265.0,160.0,11.4
+FGP Corp.,Luzon,03STA-RI_G06,San Lorenzo Combined-Cycle Gas Turbine Power Plant Unit 60 (San Lorenzo CCGTPP),Natural Gas,Scheduled,265.0,160.0,11.3
+First Cabanatuan Renewable Ventures Inc.,Luzon,01CABSOL_G01,FCRV Solar Power Plant,Solar,Must dispatch,9.1,0.0,1.0
+First Gas Power Corporation (Sta Rita),Luzon,03STA-RI_G01,Sta. Rita Natural Gas Power Plant 1,Natural Gas,Scheduled,257.3,160.0,12.0
+First Gas Power Corporation (Sta Rita),Luzon,03STA-RI_G02,Sta. Rita Natural Gas Power Plant 2,Natural Gas,Scheduled,255.7,160.0,12.0
+First Gas Power Corporation (Sta Rita),Luzon,03STA-RI_G03,Sta. Rita Natural Gas Power Plant 3,Natural Gas,Scheduled,265.5,160.0,12.0
+First Gas Power Corporation (Sta Rita),Luzon,03STA-RI_G04,Sta. Rita Natural Gas Power Plant 4,Natural Gas,Scheduled,264.0,160.0,12.0
+"GIGA ACE 4, Inc.",Luzon,03ALMNOS_BAT1,Subplant 1 Alaminos Battery Energy Storage System,Battery,Battery Energy Storage System,20.0,0.0,72000.0
+"GIGA ACE 4, Inc.",Luzon,03ALMNOS_BAT2,Subplant 2 Alaminos Battery Energy Storage System,Battery,Battery Energy Storage System,20.0,0.0,72000.0
+"GIGASOL3, Inc.",Luzon,01GIGSOL_G01,63.005 MWp Palauig Solar Power Plant,Solar,Must dispatch,50.5,0.0,NA
+GNPower Dinginin Ltd. Co. ,Luzon,01GNPD_U01,724.965 MW GNPower Dinginin Coal Plant - Unit 1 ,Coal,Scheduled,668.0,323.0,14.2
+GNPower Dinginin Ltd. Co. ,Luzon,01GNPD_U02,GNPower Dinginin Coal Plant - Unit 2 ,Coal,Scheduled,668.0,338.4,16.1
+GNPower Mariveles Energy Center Ltd. Co.,Luzon,01MARVEL_G01,Mariveles Coal Fired Thermal Power Plant Unit 1,Coal,Scheduled,316.0,150.7,3.6
+GNPower Mariveles Energy Center Ltd. Co.,Luzon,01MARVEL_G02,Mariveles Coal Fired Thermal Power Plant Unit 2,Coal,Scheduled,316.0,149.6,4.3
+Grassgold Renewable Energy Corporation,Luzon,01GRGOLD_G01,12 MW Biomass Power Plant,Biomass,Priority Dispatch,10.8,1.4,0.6
+"Greencore Power Solutions 3, Inc. ",Luzon,01ARAYSOL_G01,71.992 MWp Arayat Solar Power Project,Solar,Must dispatch,50.0,0.0,NA
+"Greencore Power Solutions 3, Inc. ",Luzon,01ARAYSOL_G02,43.679 MWp Arayat-Mexico Solar Power Plant Project Phase 2,Solar,Must dispatch,30.8,0.0,NA
+"Green Future Innovations, Inc.",Luzon,01GFII_G01,Isabela Bioethanol and Cogeneration Plant,Biomass,Priority Dispatch,15.8,1.0,3.0
+Green Innovations for Tomorrow Corporation,Luzon,01GIFT_G01,12.000 MW Biomass Power Plant,Biomass,Priority Dispatch,12.0,7.9,2.5
+Green Innovations for Tomorrow Corporation,Luzon,01GIFT_G02,6.2 MW Biomass Power Plant Phase 2,Biomass,Priority Dispatch,6.0,3.8,0.2
+"HEDCOR, Inc.",Luzon,01SLANGN_G01,Sal-angan Hydro Electric Power Plant,Run-of River Hydro,Must dispatch,2.4,0.1,3.6
+"HEDCOR, Inc.",Luzon,01NMHC_G03,Irisan 3 Hydro Electric Power Plant,Run-of River Hydro,Must dispatch,1.2,0.0,0.1
+"HEDCOR, Inc.",Luzon,01NMHC_G01,Irisan 1 Hydro Electric Power Plant,Run-of River Hydro,Must dispatch,3.9,3.9,0.8
+"HEDCOR, Inc.",Luzon,01AMPHAW_G01,Hedcor (Ampohaw) Hydro Electric Power Plant,Run-of River Hydro,Must dispatch,12.5,0.1,4.1
+"HEDCOR, Inc.",Luzon,01BAKSIP_G01,Hedcor (Bakun) Hydro Electric Power Plant,Run-of River Hydro,Must dispatch,12.4,0.1,11.4
+"HEDCOR, Inc.",Luzon,01BINENG_G01,20.400 MW La Trinidad Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,19.8,0.7,4.1
+"Hedcor Sabangan, Inc.",Luzon,01SABANG_G01,14.139 MW Sabangan Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,14.2,0.7,2.3
+Hydrocore Corp.,Luzon,01IBULAO_G01,4.500 MW Ibulao Hydroelectric Power Project,Run-of River Hydro,Must dispatch,6.0,3.0,0.5
+HyperGreen Energy Corporation,Luzon,01HYPGRN_G01,12.000 MW Biomass Power Plant,Biomass,Scheduled,10.0,5.0,0.5
+"Ingrid Power Holdings, Inc. ",Luzon,03INGRID_GS1,Pililla Diesel Power Plant Sector 1,Oil-Based,Scheduled,28.0,0.1,209.0
+"Ingrid Power Holdings, Inc. ",Luzon,03INGRID_GS2,Pililla Diesel Power Plant Sector 2,Oil-Based,Scheduled,22.0,0.1,170.6
+"Ingrid Power Holdings, Inc. ",Luzon,03INGRID_GS3,Pililla Diesel Power Plant Sector 3,Oil-Based,Scheduled,22.0,0.1,132.9
+"Ingrid Power Holdings, Inc. ",Luzon,03INGRID_GS4,Pililla Diesel Power Plant Sector 4,Oil-Based,Scheduled,28.0,0.1,184.7
+"Ingrid Power Holdings, Inc. ",Luzon,03INGRID_GS5,Pililla Diesel Power Plant Sector 5,Oil-Based,Scheduled,22.0,0.1,198.1
+"Ingrid Power Holdings, Inc. ",Luzon,03INGRID_GS6,Pililla Diesel Power Plant Sector 6,Oil-Based,Scheduled,28.0,0.1,211.7
+Isabela Biomass Energy Corporation,Luzon,01IBEC_G01,20.000 MW Biomass Power Plant (BPP),Biomass,Priority Dispatch,18.0,3.1,2.9
+Isabela La Suerte Rice Mill Corporation,Luzon,01LASUER_U01,Isabela La Suerte Biomass Power Plant,Biomass,Non-scheduled,5.1,1.0,0.5
+Jobin-SQM Inc.,Luzon,01SUBSOL_G01,100.533 MWp Sta. Rita Solar Power Plant (SPP),Solar,Must dispatch,85.5,0.0,NA
+Labayat 1 Hydropower Corporation  ,Luzon,03UPLAB_G01,3.456 MW Upper Labayat Hydroelectric Power Plant  ,Run-of River Hydro,Must dispatch,3.3,0.3,NA
+"Maibarara Geothermal, Inc.",Luzon,03MGPP_G01,Maibarara Geothermal Power Plant 1,Geothermal,Priority Dispatch,20.0,6.5,1.3
+"Maibarara Geothermal, Inc.",Luzon,03MGI_G02,Maibarara Geothermal Power Plant 2,Geothermal,Priority Dispatch,12.0,3.0,0.8
+"Majayjay Hydropower Company, Inc.",Luzon,03MAJAY_G01,Majayjay Hydro Power Plant,Run-of River Hydro,Must dispatch,2.2,0.4,0.5
+Majestics Energy Corporation,Luzon,03MEC_G01,Majestics Energy Solar PV Plant,Solar,Must dispatch,32.9,0.2,NA
+Mariveles Power Generation Corporation,Luzon,01MPGC_U01,Mariveles Coal-fired Thermal Power Plant- Phase 1,Coal,Scheduled,150.0,60.0,2.0
+Mariveles Power Generation Corporation,Luzon,01MPGC_U02,Mariveles Coal-fired Thermal Power Plant Unit 2,Coal,Scheduled,150.0,60.0,2.0
+Masinloc Power Partners Co. Ltd.,Luzon,01MSINLO_G01,Masinloc Coal-Fired Thermal Power Plant Unit 1,Coal,Scheduled,344.0,99.4,3.8
+Masinloc Power Partners Co. Ltd.,Luzon,01MSINLO_G02,Masinloc Coal-Fired Thermal Power Plant Unit 2,Coal,Scheduled,344.0,102.0,3.4
+Masinloc Power Partners Co. Ltd.,Luzon,01MSINLO_G03,Masinloc Coal-Fired Thermal Power Plant Unit 3,Coal,Scheduled,335.0,85.0,6.0
+Masinloc Power Partners Co. Ltd.,Luzon,01MSINLO_BAT,Masinloc Battery Energy Storage System,Battery,Battery Energy Storage System,10.0,0.0,306.0
+Matuno River Development Corporation,Luzon,01MATUNO_G01,Matuno River Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,8.7,0.6,0.8
+Mindoro Grid Corporation,Luzon,01BUTAO_G01,"1.350 MW Butao Irrigation Drop Hydroelectric Power Project
+",Run-of River Hydro,Must dispatch,1.3,0.3,0.5
+Mirae Asia Energy Corporation,Luzon,01MAEC_G01,20.088 MWp Currimao Solar Power Plant ,Solar,Must dispatch,16.0,0.0,NA
+Montalban Methane Power Corp.,Luzon,02MMPP_G01,MMPC Biomass Power Plant,Biomass,Priority Dispatch,5.1,0.7,0.1
+"Citicore Solar Tarlac 1, Inc.",Luzon,01ARMSOL_G01,Armenia Solar Power Plant,Solar,Must dispatch,7.1,0.0,1.0
+"Citicore Solar Tarlac 2, Inc.",Luzon,01DALSOL_G01,Dalayap Solar Power Plant,Solar,Must dispatch,5.9,0.0,1.0
+National Irrigation Administration ,Luzon,01NIABAL_G01,NIA Baligatan Hydro Electric Power Plant,Hydro,Non-scheduled ,6.0,1.0,0.5
+"Citicore Solar Bataan, Inc.",Luzon,01MARSOL_G01,Mariveles Solar Power Plant,Solar,Must dispatch,16.0,0.2,1.0
+Natures Renewable Energy Devt. (NAREDCO) Corporation,Luzon,01CAGYSOL_G01,133.464 MWp Cagayan North Solar Power Plant,Solar,Must dispatch,115.0,13.8,NA
+North Luzon Renewable Energy Corporation,Luzon,01CAPRIS_G01,Caparispisan Wind Power Plant,Wind,Must dispatch,81.0,0.0,NA
+Northwind Power Development Corporation,Luzon,01NWIND_G01,33.0MW Phases I and II Bangui Bay Wind Power Plant,Wind,Must dispatch,32.4,0.0,NA
+Northwind Power Development Corporation,Luzon,01NWIND_G02,18.8 MW  Phase III Bangui Bay Wind Power Plant,Wind,Must dispatch,18.8,0.0,NA
+Nuevo Solar Energy Corp.,Luzon,01CURSOL_G02,83.316 MWp Currimao 2 Solar Power Plant,Solar,Must dispatch,68.7,0.0,NA
+One Subic Power Generation Corporation,Luzon,01S_ENRO_G01,120.000 MW Bunker-C Fired Thermal Power Plant (BCFDPP),Oil-Based,Scheduled,110.0,56.0,14.2
+Pagbilao Energy Corporation,Luzon,03PAGBIL_G03,Pagbilao 3 Power Plant ,Coal,Scheduled,420.0,131.0,3.5
+"Panasia Energy, Inc.",Luzon,01LIMAY_U01,Bataan Combined Cycle Power Plant Unit 1,Oil-Based,Scheduled,60,0,2.7
+"Panasia Energy, Inc.",Luzon,01LIMAY_U02,Bataan Combined Cycle Power Plant Unit 2,Oil-Based,Scheduled,60,0,2.7
+"Panasia Energy, Inc.",Luzon,01LIMAY_U03,Bataan Combined Cycle Power Plant Unit 3,Oil-Based,Scheduled,60,0,2.7
+"Panasia Energy, Inc.",Luzon,01LIMAY_U04,Bataan Combined Cycle Power Plant Unit 4,Oil-Based,Scheduled,87,0,5.2
+"Panasia Energy, Inc.",Luzon,01LIMAY_U05,Bataan Combined Cycle Power Plant Unit 5,Oil-Based,Scheduled,60,0,2.7
+"Panasia Energy, Inc.",Luzon,01LIMAY_U06,Bataan Combined Cycle Power Plant Unit 6,Oil-Based,Scheduled,60,0,2.7
+"Panasia Energy, Inc.",Luzon,01LIMAY_U07,Bataan Combined Cycle Power Plant Unit 7,Oil-Based,Scheduled,60,0,2.7
+"Panasia Energy, Inc.",Luzon,01LIMAY_U08,Bataan Combined Cycle Power Plant Unit 8,Oil-Based,Scheduled,90,0,1.1
+"Pangea Green Energy Philippines, Inc.",Luzon,02PNGEA_G01,PGEP Payatas Biogas Plant,Biomass,Priority Dispatch,1.3,0.3,0.6
+People's Energy Services Inc.,Luzon,03BART_G01,Barit Hydro Electric Power Plant,Run-of River Hydro,Must dispatch,1.8,0.5,1.8
+Petron Corporation,Luzon,01PETRON_G01,Refinery Solid Fuel-Fired Boiler Power Plant,Coal,Scheduled,140.0,3.5,0.7
+PetroSolar Corporation,Luzon,01PETSOL_G01,50.069 MWp Tarlac-1 Solar Power Plant (TSPP-1),Solar,Must dispatch,44.4,0.0,NA
+PetroSolar Corporation,Luzon,01PETSOL_G02,20.349 MWp Tarlac Solar Power Plant  (TSPP-2),Solar,Must dispatch,16.5,0.0,NA
+Philippine Power and Development Company,Luzon,03PALAK_G01,Palakpakin Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,1.5,0.2,0.5
+Philippine Power and Development Company,Luzon,03BALUG_G01,Balugbog Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,1.1,0.2,0.5
+Philippine Power and Development Company,Luzon,03CLBATO_G01,Calibato Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,0.3,0.0,0.1
+"PH Renewables, Inc.",Luzon,02PNGYSOL_G01,95.827 MWp Pinugay Solar Power Plant,Solar,Must dispatch,71.6,0.0,NA
+Prime Meridian PowerGen Corporation,Luzon,03AVION_U01,San Gabriel Avion Natural Gas-Fired Power Plant Unit 1,Natural Gas,Scheduled,47.2,3.0,12.0
+Prime Meridian PowerGen Corporation,Luzon,03AVION_U02,San Gabriel Avion Natural Gas-Fired Power Plant Unit 2,Natural Gas,Scheduled,45.8,3.0,12.0
+PSALM Corporation,Luzon,01CASECN_G01,Casecnan Hydro Electric Power Plant,Hydro,Scheduled,165.0,50.0,25.0
+PSALM Corporation,Luzon,03BOTOCA_G01,Botocan Hydro Electric Power Plant,Hydro,Scheduled,20.8,0.8,3.5
+PSALM Corporation,Luzon,03CALIRY_G01,Caliraya Hydro Electric Power Plant,Hydro,Scheduled,28.0,5.0,5.9
+PSALM Corporation,Luzon,03KAL_G01,Kalayaan Hydro Electric Power Plant 1,Hydro,Scheduled,180.0,0.0,61.0
+PSALM Corporation,Luzon,03KAL_G02,Kalayaan Hydro Electric Power Plant 2,Hydro,Scheduled,180.0,0.0,60.9
+PSALM Corporation,Luzon,03KAL_G03,Kalayaan Hydro Electric Power Plant 3,Hydro,Scheduled,180.0,0.0,61.2
+PSALM Corporation,Luzon,03KAL_G04,Kalayaan Hydro Electric Power Plant 4,Hydro,Scheduled,180.0,0.0,61.5
+PSALM Corporation,Luzon,03MALAYA_G01,Malaya Oil Thermal Power Plant 1,Oil-Based,Scheduled,300.0,130.0,3.0
+PV Sinag Power Inc.,Luzon,01CAYBSOL_G01,94.717 MWp Cayanga-Bugallon Solar Power Plant,Solar,Must dispatch,75.1,0.0,NA
+Quezon Power (Philippines) Ltd. Co.,Luzon,03QPPL_G01,QPPL Coal-Fired Power Plant,Coal,Scheduled,460.0,180.0,3.0
+RASLAG Corp.,Luzon,01RASLAG_G01,10.046 MWp Pampanga Solar Power Project Phase I ,Solar,Must dispatch,8.2,0.0,9.0
+RASLAG Corp.,Luzon,01RASLAG_G02,13.141 MWp Pampanga Solar Power Project Phase II,Solar,Must dispatch,10.5,0.0,11.1
+RASLAG Corp.,Luzon,01RASLAG_G03,18.011 MWp RASLAG III Solar PV Plant ,Solar,Must dispatch,13.4,0.0,NA
+"Republic Cement & Building Materials, Inc.",Luzon,03RCBMI_G01,Batangas Diesel Power Plant Unit 1,Oil-Based,Scheduled,5.5,0.0,2.0
+"Republic Cement & Building Materials, Inc.",Luzon,03RCBMI_G02,Batangas Diesel Power Plant Unit 2,Oil-Based,Scheduled,5.5,0.0,2.0
+San Jose City I Power Corporation,Luzon,01IPOWER_G01,IPOWER Rice Husk Fired Power Plant,Biomass,Priority Dispatch,10.8,1.0,0.4
+San Jose City I Power Corporation,Luzon,01IPOWER_G02,IPOWER Rice Husk Fired Power Plant Phase 2,Biomass,Priority Dispatch,10.8,1.0,0.5
+San Buenaventura Power Ltd. Co.,Luzon,03SBPL_G01,SBPL Coal Fired Power Plant ,Coal,Scheduled,455.0,176.0,7.5
+Sual Power Inc.,Luzon,01SUAL_G01,Sual Coal-Fired Power Plant 1,Coal,Scheduled,647.0,225.0,5.0
+Sual Power Inc.,Luzon,01SUAL_G02,Sual Coal-Fired Power Plant 2,Coal,Scheduled,647.0,225.0,5.0
+SEM-Calaca Power Corporation ,Luzon,03CALACA_G01,Batangas Coal-Fired Thermal  Power Plant 1,Coal,Scheduled,240.0,150.0,0.5
+SEM-Calaca Power Corporation ,Luzon,03CALACA_G02,Calaca Coal-Fired Thermal  Power Plant 2,Coal,Scheduled,300.0,150.0,0.5
+Limay Power Inc.,Luzon,01SMC_G01,SMC Limay Coal Power Plant 1,Coal,Scheduled,150.0,60.0,1.0
+Limay Power Inc.,Luzon,01SMC_G02,SMC Limay Coal Power Plant 2,Coal,Scheduled,150.0,60.0,1.0
+Limay Power Inc.,Luzon,01SMC_G03,SMC Limay Coal Power Plant 3,Coal,Scheduled,150.0,60.0,1.0
+Limay Power Inc.,Luzon,01SMC_G04,SMC Limay Coal Power Plant 4,Coal,Scheduled,150.0,60.0,1.0
+Smith Bell Mini-Hydro Corporation,Luzon,01SMBELL_G01,1.800 MW Commonal-Uddiawan Mini-Hydro Power Plant,Run-of River Hydro,Must dispatch,1.8,0.2,0.6
+"SN Aboitiz Power - Benguet, Inc. ",Luzon,01BINGA_U01,Binga Hydroelectric Power Plant - Unit 1,Hydro,Scheduled,35.0,1.0,31.3
+"SN Aboitiz Power - Benguet, Inc. ",Luzon,01BINGA_U02,Binga Hydroelectric Power Plant - Unit 2,Hydro,Scheduled,35.0,1.0,31.5
+"SN Aboitiz Power - Benguet, Inc. ",Luzon,01BINGA_U03,Binga Hydroelectric Power Plant - Unit 3,Hydro,Scheduled,35.0,1.0,33.2
+"SN Aboitiz Power - Benguet, Inc. ",Luzon,01BINGA_U04,Binga Hydroelectric Power Plant - Unit 4,Hydro,Scheduled,35.0,1.0,33.5
+"SN Aboitiz Power - Benguet, Inc. ",Luzon,01AMBUK_U01,Ambuklao Hydroelectric Power Plant Unit 1,Hydro,Scheduled,37.5,4.8,20.0
+"SN Aboitiz Power - Benguet, Inc. ",Luzon,01AMBUK_U02,Ambuklao Hydroelectric Power Plant Unit 2,Hydro,Scheduled,37.5,5.0,20.0
+"SN Aboitiz Power - Benguet, Inc. ",Luzon,01AMBUK_U03,Ambuklao Hydroelectric Power Plant Unit 3,Hydro,Scheduled,37.5,4.8,20.0
+"SN Aboitiz Power - Magat, Inc. ",Luzon,01MAGAT_U01,Magat Hydroelectric Power Plant Unit 1,Hydro,Scheduled,97.0,2.0,33.0
+"SN Aboitiz Power - Magat, Inc. ",Luzon,01MAGAT_U02,Magat Hydroelectric Power Plant Unit 2,Hydro,Scheduled,97.0,2.0,33.0
+"SN Aboitiz Power - Magat, Inc. ",Luzon,01MAGAT_U03,Magat Hydroelectric Power Plant Unit 3,Hydro,Scheduled,97.0,2.0,33.0
+"SN Aboitiz Power - Magat, Inc. ",Luzon,01MAGAT_U04,Magat Hydroelectric Power Plant Unit 4,Hydro,Scheduled,97.0,2.0,33.0
+"SN Aboitiz Power - Magat, Inc. ",Luzon,01MARIS_U01,Maris Canal HEPP Unit 1,Hydro,Non-scheduled ,4.3,0.2,0.3
+"SN Aboitiz Power - Magat, Inc. ",Luzon,01MARIS_U02,Maris Canal HEPP Unit 2,Hydro,Non-scheduled ,4.3,0.2,0.3
+"SN Aboitiz Power - Magat, Inc. ",Luzon,01MAGAT_BAT ,32.423 MW Magat Battery Energy Storage System  ,Battery,Battery Energy Storage System,24.0,0.0,1440.0
+Solar Philippines Calatagan Corporation,Luzon,03CALSOL_G01,Calatagan Solar Farm ,Solar,Must dispatch,49.7,0.0,12.0
+"Solar Philippines Commercial Rooftop Projects, Inc.",Luzon,02SMNRTH_G01,SM North EDSA Solar Power Project,Solar,Must dispatch,1.2,0.2,1.2
+Solar Philippines Tarlac Corporation,Luzon,01CONSOL_G01,Concepcion 1 Solar Power Project,Solar,Must dispatch,76.0,0.0,NA
+SOLARACE1 Energy Corp. ,Luzon,03SOLACE_G01,120.3 MW Alaminos Solar Power Plant ,Solar,Must dispatch,89.4,0.0,NA
+South Luzon Thermal Energy Corporation,Luzon,03SLTEC_G01,South Luzon Thermal Energy Corporation Coal-Fired Thermal Power Plant Unit 1,Coal,Scheduled,122.0,48.0,1.4
+South Luzon Thermal Energy Corporation,Luzon,03SLTEC_G02,South Luzon Thermal Energy Corporation Coal-Fired Thermal Power Plant Unit 2,Coal,Scheduled,124.0,48.0,2.2
+South Premiere Power Corporation,Luzon,03ILIJAN_G01,Ilijan Natural Gas Combined-Cycle Power Plant 1,Natural Gas,Scheduled,600.0,420.0,20.0
+South Premiere Power Corporation,Luzon,03ILIJAN_G02,Ilijan Natural Gas Combined-Cycle Power Plant 2,Natural Gas,Scheduled,600.0,420.0,20.0
+Southwest Luzon Power Generation Corporation,Luzon,03SLPGC_G01,SLPGC Circulating Fluidized Bed (CFB) Coal-Fired Power Plant 1,Coal,Scheduled,150.0,44.6,1.4
+Southwest Luzon Power Generation Corporation,Luzon,03SLPGC_G02,SLPGC Circulating Fluidized Bed (CFB) Coal-Fired Power Plant 2,Coal,Scheduled,149.6,45.3,1.4
+SPARC-Solar Powered Agri-Rural Communities Corporation,Luzon,01ZAMSOL_G01,5.02 MWp DC Palauig Solar Power Plant,Solar,Must dispatch,4.8,0.0,NA
+SPARC-Solar Powered Agri-Rural Communities Corporation,Luzon,01BTNSOL_G01,5.0 MWp DC Morong Solar Power Plant,Solar,Must dispatch,4.8,0.0,NA
+SPARC-Solar Powered Agri-Rural Communities Corporation,Luzon,01SPABUL_G01,3.82 MWp DC San Rafael Solar Power Plant,Solar,Must dispatch,3.7,0.0,NA
+San Roque Hydropower Inc. ,Luzon,01SROQUE_U01,San Roque Hydro Electric Power Plant Unit 1,Hydro,Scheduled,145.0,0.0,16.0
+San Roque Hydropower Inc. ,Luzon,01SROQUE_U02,San Roque Hydro Electric Power Plant Unit 2,Hydro,Scheduled,145.0,0.0,16.0
+San Roque Hydropower Inc. ,Luzon,01SROQUE_U03,San Roque Hydro Electric Power Plant Unit 3,Hydro,Scheduled,145.0,0.0,16.0
+Terasu Energy Inc.,Luzon,01TERASU_G01,60.139 MWp Sta. Rosa Solar Power Plant,Solar,Must dispatch,40.1,0.0,NA
+"Therma Luzon, Inc. ",Luzon,03PAGBIL_G01,Pagbilao Coal-Fired Power Plant 1,Coal,Scheduled,382.0,120.0,3.0
+"Therma Luzon, Inc. ",Luzon,03PAGBIL_G02,Pagbilao Coal-Fired Power Plant 2,Coal,Scheduled,382.0,120.0,3.0
+"Therma Mobile, Inc.",Luzon,02TMOBIL_G01,Navotas Bunker C-Fired Diesel Power Plant Power Barge 1 / Mobile 3,Oil-Based,Scheduled,63.8,0.0,19.8
+"Therma Mobile, Inc.",Luzon,02TMOBIL_G02,Navotas Bunker C-Fired Diesel Power Plant Power Barge 2 / Mobile 4,Oil-Based,Scheduled,51.5,0.0,4.0
+"Therma Mobile, Inc.",Luzon,02TMOBIL_G03,Navotas Bunker C-Fired Diesel Power Plant Power Barge 3 / Mobile 5,Oil-Based,Scheduled,55.2,0.0,21.6
+"Therma Mobile, Inc.",Luzon,02TMOBIL_G04,Navotas Bunker C-Fired Diesel Power Plant Power Barge 4 / Mobile 6,Oil-Based,Scheduled,52.0,0.0,14.3
+Tibag Hydropower Corporation,Luzon,03TIBAG_G01,5.808 MW Tibag Hydroelectric Power Plant ,Run-of River Hydro,Must dispatch,5.8,0.0,NA
+Trustpower Corporation,Luzon,01TRUSTSOL_G01,20.888 MWp Trust Solar Power Plant,Solar,Must dispatch,15.4,0.0,NA
+Bulacan Power Generation Corporation,Luzon,01T_ASIA_G01,54.62 MW PPGC Diesel Power Plant,Oil-Based,Scheduled,50.0,5.0,12.5
+"United Pulp and Paper Company, Inc.",Luzon,01UPPC_G01,UPPC Cogeneration Power Plant,Coal,Scheduled,5.0,0.0,1.8
+"Universal Power Solutions, Inc.",Luzon,01LAMAO_BAT,60.234 MW Lamao Battery Energy Storage System,Battery,Battery Energy Storage System,50.0,0.0,2642.6
+"Universal Power Solutions, Inc.",Luzon,01LIMAY_BAT,50.519 MW Bataan Battery Energy Storage System ,Battery,Battery Energy Storage System,40.0,0.0,2642.4
+"Universal Power Solutions, Inc.",Luzon,01SNMAN_BAT,57.168 MW San Manuel Battery Energy Storage System,Battery,Battery Energy Storage System,50.0,0.0,9642.8
+"Universal Power Solutions, Inc.",Luzon,01MAGAPIT_BAT,(+/-) 40 MW Magapit Battery Energy Storage System ,Battery,Battery Energy Storage System,40.0,0.0,40000.0
+"Universal Power Solutions, Inc.",Luzon,01CNCEP_BAT,(+/-) 60 MW Concepcion Battery Energy Storage System ,Battery,Battery Energy Storage System,60.0,0.0,60000.0
+"Valenzuela Solar Energy, Inc.",Luzon,02VALSOL_G01,Valenzuela Solar Power Plant,Solar,Must dispatch,7.4,0.0,NA
+Northern Renewables Generation Corporation,Luzon,01BAKUN_G01,Bakun Hydro Electric Power Plant,Run-of River Hydro,Must dispatch,74.0,0.4,10.0
+VS Gripal Power Corporation,Luzon,01VSGRIP_G01,6 MW Biomass Power Plant,Biomass,Priority Dispatch,5.4,1.3,0.6
+"YH Green Energy, Incorporated",Luzon,01YHGRN_G01,14.505 MWp Hermosa Solar Power Plant,Solar,Must dispatch,13.4,0.0,NA
+Amlan Hydroelectric Power Corporation,Visayas,06AMLA_G01,Amlan Hydro Electric Power Plant,Hydro,Non-scheduled ,0.9,0.0,0.9
+"BISCOM, Inc.",Visayas,06BISCOM_G01,BISCOM Biomass Power Plant,Biomass,Non-scheduled ,30.0,0.0,0.3
+"Bohol I Electric Cooperative, Inc. - Janopol Mini Hydro Power Corporation",Visayas,07JANOPO_G01,Janopol Mini Hydro Power Plant,Hydro,Non-scheduled ,5.0,1.8,5.0
+BOHECO I  Sevilla Mini Hydro Corp.,Visayas,07SEVILL_G01,BOHECO I  Sevilla Mini Hydro Power Plant,Hydro,Non-scheduled,2.5,0.8,NA
+Cebu Energy Development Corporation,Visayas,05CEDC_U01,CEDC Coal-Fired Thermal Power Plant Unit 1,Coal,Scheduled,82.0,45.0,1.0
+Cebu Energy Development Corporation,Visayas,05CEDC_U02,CEDC Coal-Fired Thermal Power Plant Unit 2,Coal,Scheduled,82.0,45.0,1.0
+Cebu Energy Development Corporation,Visayas,05CEDC_U03,CEDC Coal-Fired Thermal Power Plant Unit 3,Coal,Scheduled,82.0,45.0,1.0
+Cebu Private Power Corporation,Visayas,05CPPC_U01,CPPC Bunker C-Fired Diesel Power Plant Unit 1 ,Oil-Based,Scheduled,6.5,3.5,1.4
+Cebu Private Power Corporation,Visayas,05CPPC_U02,CPPC Bunker C-Fired Diesel Power Plant Unit 2,Oil-Based,Scheduled,6.5,3.5,2.2
+Cebu Private Power Corporation,Visayas,05CPPC_U03,CPPC Bunker C-Fired Diesel Power Plant Unit 3,Oil-Based,Scheduled,6.5,3.4,1.6
+Cebu Private Power Corporation,Visayas,05CPPC_U04,CPPC Bunker C-Fired Diesel Power Plant Unit 4,Oil-Based,Scheduled,6.5,3.7,2.0
+Cebu Private Power Corporation,Visayas,05CPPC_U05,CPPC Bunker C-Fired Diesel Power Plant Unit 5,Oil-Based,Scheduled,6.5,3.5,1.4
+Cebu Private Power Corporation,Visayas,05CPPC_U06,CPPC Bunker C-Fired Diesel Power Plant Unit 6,Oil-Based,Scheduled,6.5,3.5,2.0
+Cebu Private Power Corporation,Visayas,05CPPC_U07,CPPC Bunker C-Fired Diesel Power Plant Unit 7,Oil-Based,Scheduled,6.5,3.6,1.9
+Cebu Private Power Corporation,Visayas,05CPPC_U08,CPPC Bunker C-Fired Diesel Power Plant Unit 8,Oil-Based,Scheduled,6.5,3.6,2.0
+Cebu Private Power Corporation,Visayas,05CPPC_U09,CPPC Bunker C-Fired Diesel Power Plant Unit 9,Oil-Based,Scheduled,6.5,3.6,1.9
+Cebu Private Power Corporation,Visayas,05CPPC_U10,CPPC Bunker C-Fired Diesel Power Plant Unit 10,Oil-Based,Scheduled,6.5,3.6,1.9
+"Central Azucarera de Bais, Inc. ",Visayas,06CABI_G01,20.000 MW (Unit 1) Biomass Cogeneration Power Plant,Biomass,Priority Dispatch,12.0,0.0,0.4
+Central Azucarera de San Antonio    ,Visayas,08CASA_G01,CASA Biomass Co-Generation Power Plant,Biomass,Non-scheduled,8.0,0.0,4.0
+"Central Negros Power Reliability, Inc.",Visayas,06CENPRI_U02,Unit 2 Calumangan Bunker C-Fired Diesel Power Plant,Oil-Based,Scheduled,4.5,3.3,0.4
+"Central Negros Power Reliability, Inc.",Visayas,06CENPRI_U01,Unit 1 Calumangan Bunker C-Fired Diesel Power Plant,Oil-Based,Scheduled,4.5,3.2,0.4
+"Central Negros Power Reliability, Inc.",Visayas,06CENPRI_U03,Unit 3 Calumangan Bunker C-Fired Diesel Power Plant,Oil-Based,Scheduled,4.5,3.3,0.3
+"Central Negros Power Reliability, Inc.",Visayas,06CENPRI_U04,Unit 4 Calumangan Bunker C-Fired Diesel Power Plant,Oil-Based,Scheduled,6.7,5.0,0.6
+"Central Negros Power Reliability, Inc.",Visayas,06CENPRI_U05,Unit 5 Calumangan Diesel Power Plant,Oil-Based,Scheduled,6.7,4.9,0.5
+"Cosmo Solar Energy, Inc.",Visayas,08COSMO_G01,Cosmo Solar Power Plant,Solar,Must dispatch,5.7,0.0,10.0
+East Asia Utilities Corporation,Visayas,05EAUC_U01,EAUC Bunker C-Fired Power Plant Unit 1 ,Oil-Based,Scheduled,11.5,6.1,3.6
+East Asia Utilities Corporation,Visayas,05EAUC_U02,EAUC Bunker C-Fired Power Plant Unit 2,Oil-Based,Scheduled,11.0,6.0,4.2
+East Asia Utilities Corporation,Visayas,05EAUC_U03,EAUC Bunker C-Fired Power Plant Unit 3,Oil-Based,Scheduled,11.5,6.1,4.4
+East Asia Utilities Corporation,Visayas,05EAUC_U04,EAUC Bunker C-Fired Power Plant Unit 4,Oil-Based,Scheduled,11.5,6.0,3.7
+Energy Development Corporation,Visayas,06NASULO_G01,Nasulo Geothermal Power Plant,Geothermal,Priority Dispatch,47.5,27.0,2.9
+Energy Development Corporation,Visayas,04LEYTE_A,Leyte A (HVDC),Geothermal,Priority Dispatch,490.1,14.1,24.2
+First Farmers Holdings Corporation  ,Visayas,06FFHC_G01,FFHC Co-Generation Bagasse-Fired Power Plant,Biomass,Priority Dispatch,9.0,0.0,2.0
+"Citicore Solar Cebu, Inc.",Visayas,05TOLSOL_G01,First Toledo Solar Power Plant,Solar,Must dispatch,49.0,0.0,4.9
+Green Core Geothermal Inc.,Visayas,06PAL1A_G01,Palinpinon Geothermal Power Plant I,Geothermal,Priority Dispatch,110.5,24.9,15.7
+Green Core Geothermal Inc.,Visayas,06PAL2A_U01,Palinpinon Geothermal Power Plant II Unit 1,Geothermal,Priority Dispatch,20.0,10.0,2.9
+Green Core Geothermal Inc.,Visayas,06PAL2A_U02,Palinpinon Geothermal Power Plant II Unit 2,Geothermal,Priority Dispatch,20.0,10.0,2.9
+Green Core Geothermal Inc.,Visayas,06PAL2A_U03,Palinpinon Geothermal Power Plant II Unit 3,Geothermal,Priority Dispatch,19.5,9.9,5.0
+Green Core Geothermal Inc.,Visayas,06PAL2A_U04,Palinpinon Geothermal Power Plant II Unit 4,Geothermal,Scheduled,20.0,10.0,6.8
+Green Core Geothermal Inc.,Visayas,04LGPP_G01,123 MW Tongonan Geothermal Power Plant,Geothermal,Priority Dispatch,120.5,16.9,4.5
+GT-Energy Corp.,Visayas,04CLBYBNK_G01,11.174 MW Calbayog Bunker C-Fired Diesel Power Plant ,Oil-Based,Scheduled,11.2,1.7,0.1
+Hawaiian-Philippine Company,Visayas,06HPCO_G01,8.000 MW Unit 1 Biomass Co-Generation Plant,Biomass,Priority Dispatch,2.0,0.0,1.9
+Hawaiian-Philippine Company,Visayas,06HPCO_G02,20.580 MW Unit 2 Biomass Co-Generation Plant ,Biomass,Priority Dispatch,9.5,0.0,6.4
+Helios Solar Energy Corporation,Visayas,06HELIOS_G01,Cadiz Solar Farm,Solar,Must dispatch,108.1,0.0,1.0
+Isabel Ancillary Services Co. Ltd.,Visayas,04IASMOD_G01,Isabel Modular Diesel Power Plant Sector  1,Oil-Based,Scheduled,10.0,0.0,105.5
+Isabel Ancillary Services Co. Ltd.,Visayas,04IASMOD_G02,Isabel Modular Diesel Power Plant Sector  2,Oil-Based,Scheduled,10.1,0.0,85.6
+Isabel Ancillary Services Co. Ltd.,Visayas,04IASMOD_G03,Isabel Modular Diesel Power Plant Sector  3,Oil-Based,Scheduled,15.1,0.0,112.5
+Isabel Ancillary Services Co. Ltd.,Visayas,04IASMOD_G04,Isabel Modular Diesel Power Plant Sector  4,Oil-Based,Scheduled,10.2,0.0,129.6
+Isabel Ancillary Services Co. Ltd.,Visayas,04IASMOD_G05,Isabel Modular Diesel Power Plant Sector  5,Oil-Based,Scheduled,15.1,0.0,152.4.
+Isabel Ancillary Services Co. Ltd.,Visayas,04IASMOD_G06,Isabel Modular Diesel Power Plant Sector  6,Oil-Based,Scheduled,10.2,0.0,111.6
+KEPCO SPC Power Corporation  ,Visayas,05KSPC_G01,Cebu Coal-Fired Thermal Power Plant (Cebu CFTPP) Unit 1,Coal,Scheduled,103.0,38.3,1.1
+KEPCO SPC Power Corporation  ,Visayas,05KSPC_G02,Cebu Coal-Fired Thermal Power Plant (Cebu CFTPP) Unit 2,Coal,Scheduled,103.0,38.2,1.2
+Monte Solar Energy Inc.,Visayas,06MNTSOL_G01,17.998 MWp Bais Solar Power Plant,Solar,Must dispatch,14.5,0.0,NA
+MORE Power Barge Inc.,Visayas,08STBPB1_U01,Power Barge 101- Unit 1,Oil-Based,Scheduled,6.0,5.0,0.7
+MORE Power Barge Inc.,Visayas,08STBPB1_U02,Power Barge 101- Unit 2,Oil-Based,Scheduled,6.0,5.2,2.3
+MORE Power Barge Inc.,Visayas,08STBPB1_U03,Power Barge 101- Unit 3,Oil-Based,Scheduled,6.0,5.2,0.3
+MORE Power Barge Inc.,Visayas,08STBPB1_U04,Power Barge 101- Unit 4,Oil-Based,Scheduled,6.0,5.0,0.4
+Negros Island Solar Power Inc.,Visayas,06CARSOL_G01, Islasol II Solar Power Plant       ,Solar,Must dispatch,27.2,0.0,27.2
+Negros Island Solar Power Inc.,Visayas,06MANSOL_G01, Islasol III Solar Power Plant       ,Solar,Must dispatch,40.5,0.0,40.5
+"North Negros Biopower, Inc.",Visayas,06NTNEGB_G01,26.256 MW NNBP Biomas Power Plant (BPP),Biomass,Scheduled,25.0,12.3,0.6
+Oriental Energy & Power Generation Corp.,Visayas,08TIMBA_G01,18.868 MW Timbaban Hydro Power Plant ,Run-of River Hydro,Must dispatch,18.9,2.2,6.0
+Palm Concepcion Power Corporation,Visayas,08PALM_G01,135.000 MW Circulating Fluidized Bed (CFB) Coal-Fired Power Plant (CFPP),Coal,Scheduled,135.0,50.0,1.3
+Panay Energy Development Corporation,Visayas,08PEDC_U01,PEDC Coal-Fired Thermal Power Plant Unit 1,Coal,Scheduled,83.7,45.0,1.0
+Panay Energy Development Corporation,Visayas,08PEDC_U02,PEDC Coal-Fired Thermal Power Plant Unit 2,Coal,Scheduled,83.7,45.0,1.0
+Panay Energy Development Corporation,Visayas,08PEDC_U03,PEDC Unit 3 Circulating Fluidized Bed Power Plant,Coal,Scheduled,150.0,75.0,1.8
+Panay Power Corporation,Visayas,08GLOBAL_G01,Nabas Diesel Power Plant,Oil-Based,Scheduled,6.4,0.0,3.0
+PetroWind Energy Inc.,Visayas,08PWIND_G01,36.000 MW Nabas Phase I Wind Power Plant (NWPP-I),Wind,Must dispatch,36.7,0.0,12.6
+First Solar Energy Corp.,Visayas,04PHSOL_G01,PSFLI Solar Power Plant,Solar,Must dispatch,24.5,0.0,24.5
+"San Carlos Bioenergy, Inc.",Visayas,06SCBE_G01,Bagasse-Fired Cogeneration Power Plant,Biomass,Non-scheduled,7.4,1.0,0.5
+San Carlos Biopower Inc.,Visayas,06SCBIOP_G01,19.990 MW SCBP Biomass Power Plant (BPP),Biomass,Scheduled,19.5,12.2,1.2
+"San Carlos Solar Energy, Inc.",Visayas,06SACASL_G01,Phase 1A & 1B Solar Power Plant,Solar,Must dispatch,19.8,0.1,0.7
+"San Carlos Solar Energy, Inc.",Visayas,06SACASL_G02,Phase 1C & D Solar Power Plant,Solar,Must dispatch,19.8,0.0,19.8
+"San Carlos Sun Power, Inc. ",Visayas,06SACSUN_G01,58.981 MWp SACASUN Solar Power Plant ,Solar,Must dispatch,46.8,0.0,NA
+"Citicore Solar Negros Occidental, Inc. ",Visayas,06SLYSOL_G01,Silay Solar Power Plant       ,Solar,Must dispatch,20.0,0.2,1.0
+SMCGP Philippines Energy Storage Co. Ltd.,Visayas,06KABAN_BAT,22.469 MW Kabankalan Battery Energy Storage System  ,Battery,Battery Energy Storage System,20.0,0.0,24217.6
+"South Negros Biopower, Inc.",Visayas,06STNEGB_G01,26.256 MW SNBP Biomass Power Plant (BPP),Biomass,Scheduled,25.0,12.0,0.6
+SPC Island Power Corporation,Visayas,07BDPP_U01,Bohol Diesel Power Plant Unit 1,Oil-Based,Scheduled,4.0,3.1,0.4
+SPC Island Power Corporation,Visayas,07BDPP_U02,Bohol Diesel Power Plant Unit 2,Oil-Based,Scheduled,4.0,3.1,0.4
+SPC Island Power Corporation,Visayas,07BDPP_U03,Bohol Diesel Power Plant Unit 3,Oil-Based,Scheduled,4.2,3.1,0.4
+SPC Island Power Corporation,Visayas,07BDPP_U04,Bohol Diesel Power Plant Unit 4,Oil-Based,Scheduled,4.0,3.1,0.4
+SPC Island Power Corporation,Visayas,08PDPP1_U02,Panay Diesel Power Plant  1 (Unit 2),Oil-Based,Scheduled,5.0,3.0,0.8
+SPC Island Power Corporation,Visayas,08PDPP1_U03,Panay Diesel Power Plant  1 (Unit 3),Oil-Based,Scheduled,5.0,3.0,0.9
+SPC Island Power Corporation,Visayas,08PDPP1_U05,Panay Diesel Power Plant  1 (Unit 5),Oil-Based,Scheduled,5.0,3.0,1.2
+SPC Island Power Corporation,Visayas,08PDPP3_C,Panay Diesel Power Plant  3 (Unit Charlie),Oil-Based,Scheduled,12.0,5.3,1.3
+SPC Island Power Corporation,Visayas,08PDPP3_E,Panay Diesel Power Plant  3 (Unit Echo),Oil-Based,Scheduled,12.0,5.2,1.3
+SPC Island Power Corporation,Visayas,08PDPP3_G,Panay Diesel Power Plant  3 (Unit Golf),Oil-Based,Scheduled,13.0,5.3,1.5
+SPC Island Power Corporation,Visayas,08PDPP3_H,Panay Diesel Power Plant  3 (Unit Hotel),Oil-Based,Scheduled,13.0,5.2,1.5
+SPC Power Corporation,Visayas,07TPLPB4_U01,Power Barge 104 Unit 1,Oil-Based,Scheduled,7.0,0.0,0.5
+SPC Power Corporation,Visayas,07TPLPB4_U02,Power Barge 104 Unit 2,Oil-Based,Scheduled,7.0,0.0,0.5
+SPC Power Corporation,Visayas,07TPLPB4_U03,Power Barge 104 Unit 3,Oil-Based,Scheduled,7.0,0.0,0.5
+SPC Power Corporation,Visayas,07TPLPB4_U04,Power Barge 104 Unit 4,Oil-Based,Scheduled,8.0,2.0,0.7
+Sta Clara Power Corporation ,Visayas,07LOBOC_G01,Loboc Hydro Electric Power Plant,Hydro,Non-scheduled ,1.2,0.0,1.2
+Sta Clara Power Corporation ,Visayas,07LOBOC_G02,Loboc 2 Hydro Electric Power Plant,Hydro,Non-scheduled ,1.2,0.2,NA
+"Sulu Electric Power and Light (Phils.), Inc.",Visayas,04SEPSOL_G01,49.754 MWp Sepalco Castilla Solar Power Plant,Solar,Must dispatch,40.5,0.0,NA
+"Sunwest Water and Electric Company 2, Inc.",Visayas,08SUWECO_G01,8.080 MW Villasiga Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,8.1,0.4,5.4
+Taft Hydroenergy Corporation,Visayas,04TAFT_G01,15.930 MW Tubig Hydroelectric Power Plant,Run-of River Hydro,Must dispatch,15.2,1.7,16.5
+"Therma Power-Visayas, Inc.",Visayas,05TPVI_U01,Naga Oil-Fired Power Plant  Unit 1,Oil-Based,Scheduled,5.5,4.2,0.7
+"Therma Power-Visayas, Inc.",Visayas,05TPVI_U02,Naga Oil-Fired Power Plant  Unit 2,Oil-Based,Scheduled,5.5,4.2,0.7
+"Therma Power-Visayas, Inc.",Visayas,05TPVI_U03,Naga Oil-Fired Power Plant  Unit 3,Oil-Based,Scheduled,5.5,4.2,0.7
+"Therma Power-Visayas, Inc.",Visayas,05TPVI_U04,Naga Oil-Fired Power Plant  Unit 4,Oil-Based,Scheduled,5.5,4.2,0.7
+"Therma Power-Visayas, Inc.",Visayas,05TPVI_U05,Naga Oil-Fired Power Plant  Unit 5,Oil-Based,Scheduled,5.5,4.2,0.7
+"Therma Power-Visayas, Inc.",Visayas,05TPVI_U06,Naga Oil-Fired Power Plant  Unit 6,Oil-Based,Scheduled,5.5,4.2,0.7
+"Therma Visayas, Inc.",Visayas,05THVI_U01,Circulating Fluidized Bed Coal-Fired Power Plant Unit 1,Coal,Scheduled,169.0,67.6,3.5
+"Therma Visayas, Inc.",Visayas,05THVI_U02,Circulating Fluidized Bed Coal-Fired Power Plant Unit 2,Coal,Scheduled,169.0,67.6,3.5
+Toledo Power Company,Visayas,05TPC_G01,TPC Carmen Diesel Power Plant,Oil-Based,Scheduled,40.0,0.0,5.0
+Toledo Power Company,Visayas,05TPC_G02,Sangi Coal Fired Power Plant,Coal,Scheduled,82.0,45.0,1.0
+Guimaras Wind Corporation,Visayas,08SLWIND_G01,54.0 MW San Lorenzo Wind Farm Project,Wind,Must dispatch,54.0,0.0,NA
+"Universal Power Solutions, Inc.",Visayas,05TOLEDO_BAT,23.740 MW Toledo Battery Energy Storage System,Battery,Battery Energy Storage System,20.0,0.0,2642.4
+"Universal Power Solutions, Inc.",Visayas,07UBAY_BAT,(+/-) 20 MW Ubay Battery Energy Storage System (BESS),Battery,Battery Energy Storage System,20.0,0.0,20000.0
+"Universal Power Solutions, Inc.",Visayas,04ORMOC_BAT,Ormoc Battery Energy Storage System,Battery,Battery Energy Storage System,40.0,0.0,2642.4
+Universal Robina Corporation,Visayas,06URC_G01, 46.0MW Kabankalan Bagasse-Fired Biomass Power Plant,Biomass,Priority Dispatch,20.0,3.5,2.3
+"Victorias Milling Company,Inc.",Visayas,06VMC_G01,23.000 MW Biomass Co-Generation Power Plant,Biomass,Priority Dispatch,2.5,0.0,1.0
+"Victorias Milling Company,Inc.",Visayas,06VMC_G02,40 MW Biomass Co-Generation Power Plant,Biomass,Priority Dispatch,21.5,0.0,3.2
+Peakpower Bukidnon Inc.,Mindanao,11PKBUK_G01,10.42 MW Bunker C. Fired Diesel Power Plant,OIL-BASED,Scheduled,10.4,5,2.64
+Peakpower Soccsargen Inc.,Mindanao,14PKPSOC_G01,34.85 MW PSI Bunker C-Fired Power Plant,OIL-BASED,Scheduled,34.9,6.5,6.60
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS1_U01,Agus I Hydroelectric Power Plant Unit 1,HYDRO,Scheduled,35,10.6,9.00
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS1_U02,Agus I Hydroelectric Power Plant Unit 2,HYDRO,Scheduled,35,10.5,5.60
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS2_U01,Agus II Hydroelectric Power Plant Unit 1,HYDRO,Scheduled,60,10,11.50
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS2_U02,180 MW Agus II Hydroelectric Power Plant Unit 2,HYDRO,Scheduled,60,10,21.70
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS2_U03,180 MW Agus II Hydroelectric Power Plant Unit 3,HYDRO,Scheduled,60,10,6.40
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS4_U01,Agus IV Hydroelectric Power Plant Unit 1,HYDRO,Scheduled,52.7,20,19.00
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS4_U02,Agus IV Hydroelectric Power Plant Unit 2,HYDRO,Scheduled,52.7,20,16.70
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS4_U03,Agus IV Hydroelectric Power Plant Unit 3,HYDRO,Scheduled,52.7,21.1,8.50
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS5_U01,Agus V Hydroelectric Power Plant Unit 1,HYDRO,Scheduled,27.5,10,10.10
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS5_U02,Agus V Hydroelectric Power Plant Unit 2,HYDRO,Scheduled,27.5,10,14.80
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS6_U01,Agus VI Hydroelectric Power Plant (HEPP) Unit 1,HYDRO,Scheduled,31.5,10.1,14.20
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS6_U02,Agus VI Hydroelectric Power Plant Unit 2,HYDRO,Scheduled,31.1,10.1,14.10
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS6_U03,Agus VI Hydroelectric Power Plant Unit 3,HYDRO,Scheduled,50,10,34.00
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS6_U04,Agus VI Hydroelectric Power Plant Unit 4,HYDRO,Scheduled,25,10,17.70
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS6_U05,Agus VI Hydroelectric Power Plant Unit 5,HYDRO,Scheduled,43.8,10.1,9.70
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS7_U01,Agus VII Hydroelectric Power Plant Unit 1,HYDRO,Scheduled,26.1,10.4,4.80
+Power Sector Assets & Liabilities Management Corporation,Mindanao,10AGUS7_U02,Agus VII Hydroelectric Power Plant Unit 2,HYDRO,Scheduled,25.3,12.4,10.50
+Power Sector Assets & Liabilities Management Corporation,Mindanao,11PULA4_U01,255 MW Pulangi IV Hydroelectric Power Plant Unit 1,HYDRO,Scheduled,75,10,30.00
+Power Sector Assets & Liabilities Management Corporation,Mindanao,11PULA4_U02,255 MW Pulangi IV Hydroelectric Power Plant Unit 2,HYDRO,Scheduled,75,10,28.30
+Power Sector Assets & Liabilities Management Corporation,Mindanao,11PULA4_U03,255 MW Pulangi IV Hydroelectric Power Plant Unit 3,HYDRO,Scheduled,75,10,42.00
+Power Sector Assets & Liabilities Management Corporation,Mindanao,14MTAPO_U02,54.24 MW Mindanao II Geothermal Power Plant,GEOTHERMAL,Scheduled,50,25,3.00
+Power Sector Assets & Liabilities Management Corporation,Mindanao,11STEAG_U01,232 MW Mindanao Coal Fired Thermal Power Plant 1,COAL,Scheduled,116,61,2.10
+Power Sector Assets & Liabilities Management Corporation,Mindanao,11STEAG_U02,232 MW Mindanao Coal Fired Thermal Power Plant 2,COAL,Scheduled,116,63,2.00
+PowerSource Philippines Energy Incorporated,Mindanao,10PPEI_U01,25 MW CFB Coal-Fired Thermal Power Plant,COAL,Scheduled,20,8,0.40
+Malita Power Inc.,Mindanao,13SMC_U01,Malita Circulating Fluidized Bed Coal Fired Thermal Power Plant (CFB CFTPP) Unit 1,COAL,Scheduled,149.9,60,2.70
+Malita Power Inc.,Mindanao,13SMC_U02,Malita Circulating Fluidized Bed Coal Fired Thermal Power Plant (CFB CFTPP) Unit 2,COAL,Scheduled,150,60,1.90
+Sarangani Energy Corporation,Mindanao,14SARANG_U01,Phase1 118.501 MW Coal - Fired Power Plant ,COAL,Scheduled,118.5,47.5,1.60
+Sarangani Energy Corporation,Mindanao,14SARANG_U02,118.50 MW Phase 2 Coal-Fired Power Plant,COAL,Scheduled,118.5,47.4,2.90
+Strategic Energy Development Inc.,Mindanao,13MAGDBNK_G01,15 MW Bunker C-Fired Diesel Power Plant,OIL-BASED,Scheduled,13,1.33,0.50
+Supreme Power Corporation,Mindanao,14SUPKOR_G01,11.90 MW Koronadal Bunker C-Fired Diesel Power Plant,OIL-BASED,Scheduled,11.9,0.1,4.20
+Supreme Power Corporation,Mindanao,13MATIBNK_G01,11.040 Mati Bunker C-Fired Diesel Power Plant,OIL-BASED,Scheduled,11,1.1,5.00
+"Therma Marine, Inc.",Mindanao,13TM1_U01,100.337 MW Mobile 1 Bunker C-Fired Power Plant Unit 1,OIL-BASED,Scheduled,49,0,11.00
+"Therma Marine, Inc.",Mindanao,13TM1_U02,100.337 MW Mobile 1 Bunker C-Fired Power Plant Unit 2 ,OIL-BASED,Scheduled,50,23.6,6.90
+"Therma Marine, Inc.",Mindanao,12TM2_U01,100.327 MW Mobile 2  Bunker C-Fired Power Plant Unit 1,OIL-BASED,Scheduled,50,25,4.60
+"Therma Marine, Inc.",Mindanao,12TM2_U02,100.327 MW Mobile 2  Bunker C-Fired Power Plant Unit 2 ,OIL-BASED,Scheduled,50,25,4.20
+"Therma South, Inc.",Mindanao,13DCPP_U01,TSI Coal Fired-Power Plant Unit 1,COAL,Scheduled,151.4,65.6,3.50
+"Therma South, Inc.",Mindanao,13DCPP_U02,TSI Coal Fired-Power Plant Unit 2,COAL,Scheduled,150,65,4.40
+Western Mindanao Power Corporation,Mindanao,09WMPC_U01,112 MW Bunker-C Fired Diesel Power Plant Unit 1,OIL-BASED,Scheduled,10.2,8.6,0.63
+Western Mindanao Power Corporation,Mindanao,09WMPC_U02,112 MW Bunker-C Fired Diesel Power Plant Unit 2,OIL-BASED,Scheduled,10.2,8.6,0.63
+Western Mindanao Power Corporation,Mindanao,09WMPC_U03,112 MW Bunker-C Fired Diesel Power Plant Unit 3,OIL-BASED,Scheduled,10.2,8.6,0.70
+Western Mindanao Power Corporation,Mindanao,09WMPC_U04,112 MW Bunker-C Fired Diesel Power Plant Unit 4,OIL-BASED,Scheduled,10.2,8.6,0.70
+Western Mindanao Power Corporation,Mindanao,09WMPC_U05,112 MW Bunker-C Fired Diesel Power Plant Unit 5,OIL-BASED,Scheduled,10.2,8.6,0.70
+Western Mindanao Power Corporation,Mindanao,09WMPC_U06,112 MW Bunker-C Fired Diesel Power Plant Unit 6,OIL-BASED,Scheduled,10.2,8.6,0.80
+Western Mindanao Power Corporation,Mindanao,09WMPC_U07,112 MW Bunker-C Fired Diesel Power Plant Unit 7,OIL-BASED,Scheduled,10,8.6,0.70
+Western Mindanao Power Corporation,Mindanao,09WMPC_U08,112 MW Bunker-C Fired Diesel Power Plant Unit 8,OIL-BASED,Scheduled,10.1,8.6,0.63
+Western Mindanao Power Corporation,Mindanao,09WMPC_U09,112 MW Bunker-C Fired Diesel Power Plant Unit 9,OIL-BASED,Scheduled,10.2,8.7,0.63
+Western Mindanao Power Corporation,Mindanao,09WMPC_U10,112 MW Bunker-C Fired Diesel Power Plant Unit 10,OIL-BASED,Scheduled,10.2,8.6,0.63
+Astronergy Development Gensan Inc.,Mindanao,14ASTROSOL_G01,24.96 MWp Santos Solar Power Plant,SOLAR,Must Dispatch,20,0,NA
+Surallah Power Generation Inc.,Mindanao,14SPGI_U01,SPGI 6.150 MW Biomass Power Plant,BIOMASS,Priority Dispatch,6,5.4,0.40
+"Universal Power Solutions, Inc.",Mindanao,13MALITA_BAT, (+/-) 20MW Malita Battery Energy Storage System (BESS) ,BATTERY,Battery Energy Storage System,20,0,NA
+"Universal Power Solutions, Inc.",Mindanao,13MACO_BAT,24.288 MW / 24.288 MWh Maco Battery Energy Storage System (BESS),BATTERY,Battery Energy Storage System,20,0,"9,642.79"
+"Universal Power Solutions, Inc.",Mindanao,11JASA_BAT,Jasaan Battery Energy Storage System ,BATTERY,Battery Energy Storage System,20,0,"9,642.79"
+"Universal Power Solutions, Inc.",Mindanao,11VILLA_BAT,±20 MW Villanueva Battery Energy Storage System,BATTERY,Battery Energy Storage System,20,0,NA
+Libertad Power and Energy Corporation,Mindanao,09LIBPOWR_G01,6 MW Biomass Power Plant,BIOMASS,Priority Dispatch,6,2.4,1.00
